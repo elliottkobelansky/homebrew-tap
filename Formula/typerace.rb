@@ -1,8 +1,8 @@
 class Typerace < Formula
   desc "TypeRacer-style typing races in the terminal"
   homepage "https://github.com/elliottkobelansky/typerace"
-  url "https://github.com/elliottkobelansky/typerace/releases/download/v0.1.0/typerace-0.1.0.tar.gz"
-  sha256 "35332ef5b2b50c509c6cb52241fd4fa49b3b6cb0898b8004aa47b54d64c43a91"
+  url "https://github.com/elliottkobelansky/typerace/releases/download/v0.1.1/typerace-0.1.1.tar.gz"
+  sha256 "97d2015372bef07aac31f3e5a335b04085a5cfeae07b869be3ae6fc9e7a54cfa"
   license "GPL-3.0-or-later"
 
   depends_on "python@3.13"
